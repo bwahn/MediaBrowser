@@ -27,10 +27,10 @@ $ source env/bin/activate
 (env) $ python
 Python 2.7.14
 
-#
-#
-cef download ( http://opensource.spotify.com/cefbuilds/index.html )
 
+#
+# cef download ( http://opensource.spotify.com/cefbuilds/index.html )
+#
 
 $ pwd
 ~/_cef/
